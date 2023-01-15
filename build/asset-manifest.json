@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myPortfolio-React/static/css/main.e6895db4.css",
+    "main.js": "/myPortfolio-React/static/js/main.724c5ed5.js",
+    "static/media/mca_sem3.PNG": "/myPortfolio-React/static/media/mca_sem3.8ad84fa62fad9c3078cc.PNG",
+    "static/media/Pradeepraj(Resume).pdf": "/myPortfolio-React/static/media/Pradeepraj(Resume).6748a5f1172a88bd194b.pdf",
+    "static/media/mca_sem1.png": "/myPortfolio-React/static/media/mca_sem1.b0b075bfeacf5056bf20.png",
+    "static/media/logo.png": "/myPortfolio-React/static/media/logo.c90163345917d1669547.png",
+    "static/media/boy.png": "/myPortfolio-React/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/cs_sem5.PNG": "/myPortfolio-React/static/media/cs_sem5.6c29087cbe14a5e226db.PNG",
+    "static/media/cs_sem6.png": "/myPortfolio-React/static/media/cs_sem6.3e271cd3ceffcbafdf94.png",
+    "static/media/mca_sem2.PNG": "/myPortfolio-React/static/media/mca_sem2.9dcdcc74d8894dd205b8.PNG",
+    "static/media/glassesimoji.png": "/myPortfolio-React/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Gumela Regular.otf": "/myPortfolio-React/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/thumbup.png": "/myPortfolio-React/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/myPortfolio-React/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/myPortfolio-React/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/myPortfolio-React/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/ProgrammingLanguages.PNG": "/myPortfolio-React/static/media/ProgrammingLanguages.0c997dc65178f05ff6bf.PNG",
+    "static/media/nptel.png": "/myPortfolio-React/static/media/nptel.0d3ebaf3bebcc1668568.png",
+    "index.html": "/myPortfolio-React/index.html",
+    "main.e6895db4.css.map": "/myPortfolio-React/static/css/main.e6895db4.css.map",
+    "main.724c5ed5.js.map": "/myPortfolio-React/static/js/main.724c5ed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6895db4.css",
+    "static/js/main.724c5ed5.js"
+  ]
+}
